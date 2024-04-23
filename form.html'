@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Creating forms</h1>
+<form>
+<label for="Name">Name</label>
+<br>
+<input type="text" id="Father Name" name="Father Name" value="ssss"><br>
+<input type="text" id="Mother Name" name="Mother Name" value="uuuu"><br>
+<input type="button" value="submit">
+</body>
+</html>
